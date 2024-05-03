@@ -4,8 +4,8 @@ https://www.vulcan.edu.pl/
 https://github.com/kapi2289/vulcan-api
 
 Upewnij się, że uruchamiasz program w wersji pythona nie innej niż 3.11
-https://www.python.org/downloads/
 W innych wersjach nie działa vulcan-api
+https://www.python.org/downloads/
 
 Do poprawnego działania programu potrzebne jest zainstalowanie biblioteki vulcan-api
 Jeśli masz pythona w wersji 3.11 to możesz to zrobić za pomocą pliku install_vulcan_api.bat
